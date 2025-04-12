@@ -1,0 +1,1 @@
+export const cartItems = [{quantity: 1, product: { id: 1, productName: "Çıbık kraker"}}];
